@@ -1,5 +1,7 @@
 # data-show
 
+大屏数据展示模板
+
 ## Project setup
 ```
 npm install
